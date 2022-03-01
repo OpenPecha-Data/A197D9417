@@ -1,0 +1,19 @@
+segment_sources:
+  P64484476:
+    type: origin_type
+    relation: translation
+    language: en
+  PD59EAE74:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  c6a7bb69127b48abab7678967025e9bd:
+    P64484476: 7c52e4f7ca54451289e96c24d2aa9276
+    PD59EAE74: 35914d5836fb46c2a8ae605a2ba8a7d9
+  b7402338370f4030bc9aa5159a36ccc1:
+    P64484476: b553621aee9f4b1aaa7a2fd968dd6507
+    PD59EAE74: c9f850d57f44445e8ac8957a798c295a
+  1c18b5510c6f4e8dba1368f8e8ce4fe5:
+    P64484476: 8bfc770fac794f9eba39c15a407393d0
+    PD59EAE74: b6f9b925ded04bc6b5300c3e58c49426
